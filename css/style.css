@@ -1,0 +1,76 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.hh{
+	height:100%;
+	border:2px solid red;
+	height: 800px;
+}
+.hh1{
+    position: absolute;
+	width: 100%;
+	height: 10.2%;
+	background-color: #889ca3;opacity: 0.9 ;
+}
+.hh>img{
+	width: 100%;
+	height: 100%;
+}
+.hh2{
+	width: 100%;
+	border: 0px solid firebrick;
+	height: 100%;
+}
+.hh2>img{
+	float: left;
+	margin-top: 23px;
+}
+.hh2>span{
+	position: absolute;
+	float: left;
+	color: #ffffff;
+	font-size: 1.8rem;
+	margin-left: 80px;
+	line-height: 95px;
+	
+	
+}
+.hh3{
+	border: 0px solid firebrick;
+	width: 20%;
+}
+.hh3>span{
+	float: left;
+	width: 20%;
+	height: 96%;
+	line-height: 96px;
+	text-align: center;
+	color: #FFFFFF;
+	border: 0px solid firebrick;
+}
+.hh4{
+	border: 0px solid firebrick;
+	width: 100%;
+}
+.hh4>button{
+	float: left;
+	width: 46%;
+	background: #8da0a7;
+	border: 1px solid #ffffff;
+	height: 33%;
+	color: #FFFFFF;
+	margin-top: 32px;
+}
+.hh4>span{
+	float: left;
+	border: 1px solid firebrick;
+	margin-top: 34px;
+	margin-left: 20px;
+	
+}
+
+
+
+
